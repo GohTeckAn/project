@@ -1,0 +1,19 @@
+ .large-box {
+    background-color: rgb(200, 200, 200);
+    border-radius: 20px;
+    padding: 10px;
+ }
+
+ .information {
+    display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     column-gap: 16px;
+     row-gap: 40px;
+}
+
+.small-box {
+    background-color: white;
+    height: 80px;
+    border-radius: 20px;
+    padding: 10px;
+}
